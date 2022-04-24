@@ -45,7 +45,7 @@ $ npm install
 
 ## Author 👨‍💻
 
-- **Aayanjit Bhuyan** - **[Linkedin](https://www.linkedin.com/in/aayanjit-bhuyan-b48705195)**, **[Github](https://github.com/aayan-99)**, **[Portfolio](portfolio-v1-teal.vercel.app)**
+- **Aayanjit Bhuyan** - **[Linkedin](https://www.linkedin.com/in/aayanjit-bhuyan-b48705195)**, **[Github](https://github.com/aayan-99)**, **[Portfolio](https://portfolio-v1-teal.vercel.app)**
 
 <br>
 
