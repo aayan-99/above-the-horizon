@@ -1,6 +1,6 @@
 # Above The Horizon
 
-This is a simple react router bassed project to explore the primaty concepts of React like state props etc.
+This is a simple react router bassed project to explore the primaty concepts of React like state, props, react-router, etc.
 
 ## [Demo Link](https://above-the-horizon.vercel.app/) 🔗
 
@@ -45,7 +45,7 @@ $ npm install
 
 ## Author 👨‍💻
 
-- **Aayanjit Bhuyan** - **[Linkedin](https://www.linkedin.com/in/aayanjit-bhuyan-b48705195)**, **[Github](https://github.com/aayan-99)**, **[Portfolio](https://portfolio-v1-teal.vercel.app)**
+- **Aayanjit Bhuyan** - **[Linkedin](https://www.linkedin.com/in/aayanjit-bhuyan-b48705195)**, **[Github](https://github.com/aayan-99)**, **[Portfolio](https://portfolio-v1-teal.vercel.app/)**
 
 <br>
 
